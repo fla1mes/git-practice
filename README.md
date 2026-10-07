@@ -1,2 +1,6 @@
-Git Practice 
-This my first project on Git. 
+\##Members
+
+\-Danila Kolobov
+
+\-Matvey Gavryushenkov
+
