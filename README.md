@@ -1,5 +1,5 @@
 \##Members
-Author: Ya
+Author: We 
 \-Danila Kolobov
 
 \-Matvey Gavryushenkov
