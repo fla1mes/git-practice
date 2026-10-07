@@ -1,6 +1,6 @@
 \##Members
 
-\-Danila Kolobov
+Navalny Leha
 
 \-Matvey Gavryushenkov
 
